@@ -9,4 +9,4 @@ VoidAPI を使って "Make it a Quote" 風の画像を生成します。
 
 ## ライセンス
 
-MIT
+[![MIT License](https://img.shields.io/github/license/ryusei-star/VCBot?color=44CC11&style=flat-square)](/LICENSE)
