@@ -14,7 +14,7 @@ rate_limit = {}
 
 @client.event
 async def on_ready():
-    print(f"ログイン成功: {client.user}")
+    print(f"ログイン: {client.user}")
 
 @client.event
 async def on_message(message):
